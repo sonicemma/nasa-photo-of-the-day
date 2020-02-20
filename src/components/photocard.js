@@ -7,5 +7,6 @@ const PhotoCard = props => {
             <img src="" alt="Photo of the day"></img>
             <p>Description:</p>
         </div>
-    )
-}
+    );
+};
+export default PhotoCard;
