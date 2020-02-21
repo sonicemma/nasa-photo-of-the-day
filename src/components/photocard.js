@@ -1,9 +1,9 @@
 import React from "react";
-import styled from 'styled-components';
+import styled from '@emotion/styled'
 
 const ImageStyle = styled.img`
-    width: 500px;
-    height: 500px;
+    width: 600px;
+    height: 600px;
 `
 
 const ParagraphStyle = styled.p`
